@@ -1,0 +1,10 @@
+0 Potoato
+1 Tomato
+2 papita
+3 cucumber
+4 Gobhi
+5 Carrot
+6 Bhata
+7 bean
+8 Patta Gobhi
+9 Radish
